@@ -1,1 +1,1 @@
-# Time-Series-Analysis
+Developed a ARIMA model for Stock Price Forecasting..
